@@ -3,7 +3,7 @@
 <html>
 <head>
   <meta charset='utf-8'>
-  <title>Prueba con ajax</title>
+  <title>Prueba con ajax de Raldy</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <!-- Bootstrap CSS -->
